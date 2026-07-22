@@ -1,0 +1,18 @@
+{
+  "name": "animais-fantasticos",
+  "description": "Um site sobre animais",
+  "version": "1.0.0",
+  "author": "Elaine Ferreira",
+  "license": "MIT",
+  "type": "module",
+  "main": "js/scripts.js",
+  "scripts": {
+    "build": "node js/script.js",
+    "dev": "node --watch js/script.js"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "webpack": "^5.108.4",
+    "webpack-cli": "^6.0.1"
+  }
+}
