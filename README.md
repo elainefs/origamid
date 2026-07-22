@@ -11,3 +11,4 @@
 
 - [x] [UI Design para Iniciantes](./UI-Design-para-Iniciantes/README.md)
 - [x] [HTML e CSS para Iniciantes](./HTML-e-CSS-para-Iniciantes/README.md)
+- [x] [JavaScript Completo ES6](./JavaScript-Completo-ES6/README.md)
