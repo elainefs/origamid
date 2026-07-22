@@ -7,7 +7,6 @@
   left: 0;
   z-index: 2000;
   display: none;
-  /* display: flex; */
   justify-content: center;
   align-items: center;
 }
@@ -18,11 +17,13 @@
 
 .modal {
   background: #fff;
-  min-width: 300px;
+  width: 80vw;
+  max-width: 600px;
   padding: 40px;
   border: 10px solid #fb5;
   box-shadow: 0 0 0 10px #fff;
   position: relative;
+  box-sizing: border-box;
 }
 
 @keyframes modal {
